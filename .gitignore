@@ -6,3 +6,4 @@ _site/
 .bundle/
 vendor/
 #Gemfile.lock #ignore classic githubpages build not when building with a workflow
+#.env
